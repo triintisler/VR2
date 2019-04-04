@@ -5377,7 +5377,7 @@
       "uri": "Warrior_marmoset_Emissive.png"
     },
     {
-      "uri": "Warrior_marmoset_Emissive.jpeg"
+      "uri": "Warrior_marmoset_Emissive.png"
     }
   ],
   "materials": [
@@ -5392,7 +5392,7 @@
         "index": 1,
         "texCoord": 0
       },
-      "name": "warrior_lowpolyMaterial_39",
+      "name": "Warrior_marmoset_Emissive",
       "normalTexture": {
         "index": 2,
         "scale": 1,
